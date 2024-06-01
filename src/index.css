@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.animate-text-gradient {
+    animation: text-gradient 4s linear 0s infinite normal forwards running;
+}
+
+@keyframes text-gradient {
+    100% {
+        background-position: -200%;
+    }
+}
