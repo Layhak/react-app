@@ -6,7 +6,7 @@ function App() {
             <h1
                 className="animate-text-gradient text-7xl inline-flex bg-[linear-gradient(90deg,#D6009A_0%,#8a56cc_50%,#D6009A_100%)] bg-clip-text font-medium text-transparent md:ml-1 dark:bg-[linear-gradient(90deg,#0284c7_0%,#f0f9ff_50%,#0284c7_100%)]"
                 style={{backgroundSize: '200%', backgroundClip: 'text', color: 'transparent'}}>
-                Hello, React JS
+                Hi, React
             </h1>            <h1
             className="animate-text-gradient text-6xl inline-flex bg-[linear-gradient(90deg,#D6009A_0%,#8a56cc_50%,#D6009A_100%)] bg-clip-text font-medium text-transparent md:ml-1 dark:bg-[linear-gradient(90deg,#0284c7_0%,#f0f9ff_50%,#0284c7_100%)]"
             style={{backgroundSize: '200%', backgroundClip: 'text', color: 'transparent'}}>
